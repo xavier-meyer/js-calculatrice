@@ -1,4 +1,8 @@
-
+// decla variable
+let nb1;
+let nb2;
+let nbtransform1;
+let nbtransform2;
 // fonction calculs()
 function addition(nb1, nb2){
     let calcul = nb1+nb2;
